@@ -1,9 +1,6 @@
-import { Button } from "@chakra-ui/react";
-import { ArrowRightIcon } from "@chakra-ui/icons";
-
-function Btn({palceholder = "SHOP NOW", arrow = false}){
+function Btn({palceholder = "SHOP NOW", arrow = true, size="md"}){
     return(
-        <Button palceholder={palceholder} rightIcon={arrow? ArrowRightIcon : null}/>
+        <button className="btn">{palceholder}{arrow? <img className="icon" src="https://cdn.iconscout.com/icon/free/png-64/right-arrow-14-460282.png" alt="Arrow"/> : null}</button>
     )
 }
 
