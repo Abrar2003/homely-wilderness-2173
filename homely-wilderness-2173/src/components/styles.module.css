@@ -1,0 +1,97 @@
+.navbar{
+    box-sizing: border-box;
+    padding: 0% 18%;
+    height: 230px;
+}
+.topnav{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    margin-bottom: 40px;
+}
+.topnavleft{
+    display: flex;
+    align-items: center;
+    width: 30%;
+}
+.topnavright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+}
+.leftdefault{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    text-decoration: none;
+    color: #757575;
+    width: 25%;
+}
+.leftactive{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 13px;
+    text-decoration: none;
+    color: #757575;
+    width: 25%;
+    background: rgb(210, 210, 210);
+}
+.rightdefault{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+    width: 25%;
+}
+.rightactive{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: none;
+    color: black;
+    width: 25%;
+    background: rgb(210, 210, 210);
+}
+.midnav{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottomnav{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.searchbar{
+    width: 18%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgb(205, 200, 200);
+}
+.inp{
+    border: none;
+}
+.ProductLink{
+    text-decoration: none;
+    color: #757575;
+    padding: .5rem;
+    letter-spacing: 1px;
+    font-size: 13px;
+}
