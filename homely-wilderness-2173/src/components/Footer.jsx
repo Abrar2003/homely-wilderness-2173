@@ -41,7 +41,7 @@ function Footer() {
     "https://cdn.iconscout.com/icon/free/png-64/union-15-283039.png",
     "https://cdn.iconscout.com/icon/free/png-64/discover-network-675707.png",
     "https://cdn.iconscout.com/icon/free/png-64/paypal-2752104-2284921.png"
-  ]
+  ];
   return (
     <div className={styles.footer}>
       <div className={styles.divider}>{/*divider line */}</div>
@@ -64,13 +64,13 @@ function Footer() {
         <div>
           <h2>MYTHERESA</h2>
           {mytheresa.map((names) => (
-            <p>{names}</p>
+            <p key={names}>{names}</p>
           ))}
         </div>
         <div>
           <h2>Customer Care</h2>
           {customercare.map((names) => (
-            <p>{names}</p>
+            <p key={names}>{names}</p>
           ))}
         </div>
         <div>
@@ -90,7 +90,7 @@ function Footer() {
           </div>
           <div>
             <h4>Follow us</h4>
-            {iconUrls.map(url => <img className={styles.icons} width="20px" height="20px" src={url}/>)}
+            {iconUrls.map(url => <img key={url} className={styles.icons} width="20px" height="20px" src={url}/>)}
           </div>
         </div>
       </div>
@@ -98,7 +98,7 @@ function Footer() {
       <div className={styles.footerbottom}>
         <div>
           <h4>Payment Methods:</h4>
-          {payIconUrls.map(url => <img className={styles.icons} height="30px" src={url}/>)}
+          {payIconUrls.map(url => <img key={url} className={styles.icons} height="30px" src={url}/>)}
         </div>
         <div>
           <h4>Delivered by:</h4>

@@ -1,0 +1,248 @@
+{
+  "users": [
+    { "email": "test1@mail.com", "password": "12345678" },
+    { "email": "test2@mail.com", "password": "12345678" }
+  ],
+  "Products": [
+    { 
+      "id": 1,
+      "name":"RASARIO",
+      "size": ["s","m","l","xl"],
+      "price": 1193,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ff/P00733936_b1.jpg",
+      "description": "Feather-trimmed cutout crêpe gown"
+    },
+    {
+      "id": 2,
+      "name":"VELENTINO",
+      "size": ["s","m","l","xl"],
+      "price": 295,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/85/P00705691.jpg",
+      "description": "VLogo Signature Swarovski crystal ring"
+    },
+    {
+      "id": 3,
+      "name":"MAGDA BUTRYM",
+      "size": ["s","m","l","xl"],
+      "price": 795,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/1e/P00705664.jpg",
+      "description": "Leather and satin sandals"
+    },
+    {
+      "id": 4,
+      "name":"VELENTINO GARAVANI",
+      "size": ["s","m","l","xl"],
+      "price": 1278,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/76/P00696787.jpg",
+      "description":"Rockstud Spike Mini leather shoulder bag"
+    },
+    {
+      "id": 5,
+      "name":"SAINT LAURENT",
+      "size": ["s","m","l","xl"],
+      "price": 1768,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/2a/P00733275.jpg",
+      "description": "Le 57 quilted leather shoulder bag"
+    },
+    {
+      "id": 6,
+      "name":"SAINT LAURENT",
+      "size": ["s","m","l","xl"],
+      "price": 2009,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/be/P00711138_b1.jpg",
+      "description": "High-rise leather drawstring pants"
+    },
+    {
+      "id": 7,
+      "name":"CHLOÉ",
+      "size": ["s","m","l","xl"],
+      "price": 1639,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ad/P00700449.jpg",
+      "description": "Louela Small leather bucket bag"
+    },
+    {
+      "id": 8,
+      "name":"GABRIALA HEARST",
+      "size": ["s","m","l","xl"],
+      "price": 2345,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/9f/P00699836.jpg",
+      "description": "Lauren cashmere shawl"
+    },
+    {
+      "id": 9,
+      "name":"CHLOÉ",
+      "size": ["s","m","l","xl"],
+      "price": 1895,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a3/P00695932.jpg",
+      "description": "Cashmere and wool midi dress"
+    },
+    {
+      "id": 10,
+      "name":"CHLOÉ",
+      "size": ["s","m","l","xl"],
+      "price": 499,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/00/P00695572.jpg",
+      "description": "Meril woven platform sandals"
+    },
+    {
+      "id": 11,
+      "name":"CELINE EYEWEAR",
+      "size": ["s","m","l","xl"],
+      "price": 245,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/41/P00679994.jpg",
+      "description": "Cat-eye acetate sunglasses"
+    },
+    {
+      "id": 12,
+      "name":"KHAITE",
+      "size": ["s","m","l","xl"],
+      "price": 1455,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/5b/P00697091.jpg",
+      "description": "Mayley double-breasted blazer"
+    },
+    {
+      "id": 13,
+      "name":"KHAITE",
+      "size": ["s","m","l","xl"],
+      "price": 985,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/32/P00697061.jpg",
+      "description": "Ian low-rise wide-leg pants"
+    },
+    {
+      "id": 14,
+      "name":"LOEWE",
+      "size": ["s","m","l","xl"],
+      "price": 499,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/73/P00726165.jpg",
+      "description": "Anagram reversible leather belt"
+    },
+    {
+      "id": 15,
+      "name":"LOEWE",
+      "size": ["s","m","l","xl"],
+      "price": 885,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/90/P00725403_b1.jpg",
+      "description": "Printed velvet midi dress"
+    },
+    {
+      "id": 16,
+      "name":"MARNI",
+      "size": ["s","m","l","xl"],
+      "price": 1505,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/3a/P00662908.jpg",
+      "description":"Wool-blend tweed blazer"
+    },
+    {
+      "id": 17,
+      "name":"ACNE STUDIOS",
+      "size": ["s","m","l","xl"],
+      "price": 205,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/1a/P00707447.jpg",
+      "description":"Checked Wool-blend scarf"
+    },
+    {
+      "id": 18,
+      "name":"LANVIN",
+      "size": ["s","m","l","xl"],
+      "price": 1255,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/32/P00654865.jpg",
+      "description":"in&out harringbone tote"
+    },
+    {
+      "id": 19,
+      "name":"MARNI",
+      "size": ["s","m","l","xl"],
+      "price": 825,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/78/P00662913.jpg",
+      "description":"checked wool & mohair sweater"
+    },
+    {
+      "id": 20,
+      "name":"LANVIN",
+      "size": ["s","m","l","xl"],
+      "price": 429,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/63/P00662843.jpg",
+      "description":"mid-rise tapered jeans"
+    },
+    {
+      "id": 21,
+      "name":"GUCCI",
+      "size": ["s","m","l","xl"],
+      "price": 675,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/f1/P00674030.jpg",
+      "description":"horsebit leater slippers"
+    },
+    {
+      "id": 22,
+      "name":"MARNI",
+      "size": ["s","m","l","xl"],
+      "price": 2009,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/01/P00662880.jpg",
+      "description":"leather jacket"
+    },
+    {
+      "id": 23,
+      "name":"LANVIN",
+      "size": ["s","m","l","xl"],
+      "price": 869,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/4f/P00662808.jpg",
+      "description":"JL3D jacquard wool sweater"
+    },
+    {
+      "id": 24,
+      "name":"ACNE STUDIOS",
+      "size": ["s","m","l","xl"],
+      "price": 209,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fd/P00707269.jpg",
+      "description":"straight cotton-blend chinos"
+    },
+    {
+      "id": 25,
+      "name":"LAMAIRE",
+      "size": ["s","m","l","xl"],
+      "price": 649,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a6/P00691539_d2.jpg",
+      "description":"suede cowboy shoes"
+    },
+    {
+      "id": 26,
+      "name":"BURBERRY",
+      "size": ["s","m","l","xl"],
+      "price": 315,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3f/P00481011_b1.jpg",
+      "description":"Coxton-checked short-sleeved shirt"
+    },
+    {
+      "id": 27,
+      "name":"VERSACE",
+      "size": ["s","m","l","xl"],
+      "price": 839,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/b6/P00680509.jpg",
+      "description":"la Greca cashmere sweater"
+    },
+    {
+      "id": 28,
+      "name":"VERSACE",
+      "size": ["s","m","l","xl"],
+      "price": 669,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/bf/P00680505_d2.jpg",
+      "description":"Medusa chain leather loafers"
+    },
+    {
+      "id": 29,
+      "name":"ALEXENDER MCQUEEN",
+      "size": ["s","m","l","xl"],
+      "price": 249,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/89/P00478859.jpg",
+      "description":"Brad Pitt cotton shirt"
+    },
+    {
+      "id": 30,
+      "name":"GUCCI",
+      "size": ["s","m","l","xl"],
+      "price": 1135,
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/4b/P00674231.jpg",
+      "description":"GG perforated wool cardigen"
+    }
+  ]
+}
