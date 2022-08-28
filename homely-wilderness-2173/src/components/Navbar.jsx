@@ -62,7 +62,7 @@ function Navbar() {
       </div>
       <div className={styles.bottomnav}>
         
-        { bottomnav.map(name => <p key={name}>{name}</p>) }
+        { bottomnav.map(name => <Link className={styles.link} to="/productpage" key={name}>{name}</Link>) }
        
         <div className={styles.searchbar}>
           <input className={styles.inp} type="text" name="" id="" placeholder="Serach for..."/>

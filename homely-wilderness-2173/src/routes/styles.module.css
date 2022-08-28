@@ -181,3 +181,25 @@
     width: 100%;
     height: 40px;
 }
+.mainSignup{
+    padding: 0% 18%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.dividerVirtical{
+    height: 600px;
+    margin: 0px 30px;
+    border: 1px solid #f2f2f2;
+}
+.signup, .login{
+    text-align: left;
+    width: 48%;
+}
+.signup input, .signup select, .login input{
+    width: 90%;
+    height: 40px;
+    font-size: 20px;
+    margin: auto;
+    display: block;
+    margin-bottom: 30px;
+}

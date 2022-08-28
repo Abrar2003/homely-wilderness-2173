@@ -77,6 +77,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.link{
     text-decoration: none;
     color: #757575;
     padding: .5rem;
