@@ -20,7 +20,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd frontend
+  cd homely-wilderness-2173
 ```
 
 Install dependencies
