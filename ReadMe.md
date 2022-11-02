@@ -14,7 +14,7 @@ This is the MyTheresa website as part of our Unit-4 construct week. I was given 
 Clone the project
 
 ```bash
-  git clone https://github.com/Thannzz/Myhours-Clone
+  git clone https://github.com/Abrar2003/homely-wilderness-2173.git
 ```
 
 Go to the project directory
