@@ -7,7 +7,7 @@ This is the MyTheresa website as part of our Unit-4 construct week. I was given 
 </tr>
 </table>
 
-#My Theresa (CLONE)
+# My Theresa (CLONE)
 
 ## Run Locally
 
